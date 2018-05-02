@@ -1,0 +1,131 @@
+body{
+	background-image: url(data:image/jpeg;base64,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);
+}
+
+#container {
+	position: absolute;
+	left: 30%;
+	border: 2px solid;
+}
+
+.fila {
+	display: inline-block;
+	/*el elemento genera una caja block pero que se comporta como si fuera inline
+	 admitiendo otros elementos en la misma línea*/
+}
+
+
+
+.columna-negra {
+	display: inline-block;
+	background-color: black;
+	width: 80px;
+	height: 80px;
+	
+}
+
+.columna-blanca {
+	display: inline-block;
+	background-color: white;
+	width: 80px;
+	height: 80px;
+	
+}
+.fichaRoja {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	background-color: red;
+	border-radius: 30px;
+	margin-top: 10px;
+  	margin-left: 8px;
+  	
+ 
+}
+.fichaNegra {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	background-color: black;
+	border-radius: 30px;
+	margin-top: 10px;
+  	margin-left: 8px;
+  	
+}
+
+#Iniciar{
+	position: absolute;
+	background-color: #FF0000;
+	color: white;
+	border-radius: 2px;
+	width: 200px;
+	height: 100px;
+	top: 300px;
+	left: 100px;
+	font-size: xx-large;
+}
+
+#Mostrar{
+	position: absolute;
+	background-color: #FF0000;
+	color: white;
+	border-radius: 2px;
+	width: 200px;
+	height: 100px;
+	top: 450px;
+	left: 100px;
+	font-size: xx-large;
+}
+
+#timer{
+	border: 2px solid black;
+	width: 250px;
+	border-radius: 5px;
+	background-color: black;
+
+}
+
+
+h1{
+	position: center;
+	color: #3B0B0B;
+	font-family: cursive;
+	font-size: 40px;
+	margin-left: 35%
+}
+
+h3{
+	top: 5%;
+	position: absolute;
+	
+	color: #3B0B0B;
+	font-family: cursive;
+	font-size: 30px;
+	margin-left: 7%
+}
+
+#hour, #minute, #second{
+
+	display: inline-grid;
+	font-size: 40px;
+	border: 1px solid black;
+	width: 50px;
+
+	color: white;	
+	padding: 2px;
+	margin-left: 2px;
+}
+
+#divider{
+	display: inline-grid;
+	font-size: 40px;
+	border: 1px solid black;
+	width: 20px;
+	
+	color: white;	
+	padding: 2px;
+	position: center;
+
+}
+
+
